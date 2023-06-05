@@ -1,2 +1,2 @@
 # basic-sorting-algorithms
-The code uses 3 simple sorting algorithms: Bubble Sort, Insertion Sort, and Selection Sort. And an array class to manipulate numbers 
+This code consists two classes: An array class to manipulate numbers, with 3 simple sorting algorithms: Bubble Sort, Insertion Sort, and Selection Sort. And the Program class that holds the main method.
